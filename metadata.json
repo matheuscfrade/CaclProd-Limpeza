@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Produtividade - Limpeza Pública",
+  "description": "Calculadora para definir a quantidade de profissionais de limpeza em órgãos públicos, baseada nos índices de produtividade da IN 5/2017.",
+  "requestFramePermissions": []
+}
